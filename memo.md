@@ -1,6 +1,6 @@
 # 5月20日
-
 `flutter create 名前`で新しいappを作成
+
 
 ### maindarnの中身を簡略化したコード
 ```dart
